@@ -1,0 +1,501 @@
+id_encuesta,id_alumno,id_asignatura,fecha_encuesta,satisfaccion_global,satisfaccion_docente,satisfaccion_contenido,satisfaccion_facilidad,comentario
+1,188,12,2025-02-14,5,5,9,10,Contenido difícil pero útil
+2,139,21,2024-12-14,4,8,4,4,Muy buena asignatura
+3,196,1,2025-12-16,7,5,10,6,Profesor excelente
+4,182,5,2025-03-13,4,5,8,10,Demasiado contenido en poco tiempo
+5,16,20,2025-06-17,9,9,8,10,Las prácticas ayudan mucho
+6,5,1,2026-02-19,8,8,7,3,Muy buena asignatura
+7,136,24,2025-04-27,6,8,6,3,
+8,179,22,2024-06-21,7,10,5,4,Profesor excelente
+9,135,5,2024-06-23,5,5,8,7,Demasiado contenido en poco tiempo
+10,69,13,2024-10-05,4,6,7,10,
+11,63,23,2024-10-09,5,6,9,4,Muy buena asignatura
+12,24,13,2025-07-08,7,7,8,10,Muy buena asignatura
+13,164,1,2025-12-26,9,5,4,10,Muy recomendable
+14,166,11,2026-04-22,8,10,4,3,Necesita mejorar la organización
+15,55,23,2024-07-22,8,7,6,3,Profesor excelente
+16,176,9,2025-05-16,8,8,9,3,Contenido difícil pero útil
+17,81,1,2025-04-03,5,8,5,9,Profesor excelente
+18,77,6,2025-08-16,8,5,8,9,
+19,85,13,2024-10-22,10,9,5,4,
+20,191,12,2024-09-25,4,4,7,6,Profesor excelente
+21,88,20,2024-06-19,10,8,8,9,Demasiado contenido en poco tiempo
+22,8,21,2025-03-27,6,10,7,10,Necesita mejorar la organización
+23,92,18,2024-09-24,7,7,5,9,Profesor excelente
+24,198,20,2025-03-26,6,10,5,4,Profesor excelente
+25,69,5,2024-08-19,7,9,10,5,Muy recomendable
+26,82,12,2026-05-16,4,4,4,7,Las prácticas ayudan mucho
+27,93,25,2024-07-26,6,4,5,4,Contenido difícil pero útil
+28,111,15,2024-06-01,8,8,8,9,Profesor excelente
+29,7,3,2024-12-17,6,8,4,8,Muy recomendable
+30,4,10,2024-06-21,7,7,10,4,
+31,63,19,2025-10-02,8,5,9,9,Contenido difícil pero útil
+32,36,9,2026-01-23,6,6,7,5,Profesor excelente
+33,43,14,2024-06-09,6,7,6,10,Profesor excelente
+34,93,9,2025-08-21,5,9,9,10,
+35,158,7,2026-04-10,7,4,5,7,Muy buena asignatura
+36,102,11,2025-07-31,10,8,7,8,Las prácticas ayudan mucho
+37,86,14,2024-08-28,10,10,10,5,Clases dinámicas y entretenidas
+38,83,20,2024-09-15,9,5,7,8,Contenido difícil pero útil
+39,102,11,2025-12-22,6,9,9,10,
+40,63,11,2025-10-24,7,6,10,9,Demasiado contenido en poco tiempo
+41,30,19,2026-02-20,5,8,8,5,
+42,7,24,2026-03-12,7,9,5,10,Clases dinámicas y entretenidas
+43,178,3,2025-12-20,10,10,10,9,Las prácticas ayudan mucho
+44,36,21,2025-07-03,6,5,6,5,Muy recomendable
+45,97,3,2025-11-18,7,8,7,9,
+46,130,23,2024-08-26,7,8,4,8,
+47,153,21,2026-04-19,4,4,10,6,Demasiado contenido en poco tiempo
+48,43,21,2024-07-25,8,4,8,9,Demasiado contenido en poco tiempo
+49,111,4,2024-06-22,4,4,6,6,
+50,192,17,2024-10-14,8,8,9,6,Las prácticas ayudan mucho
+51,96,13,2026-01-23,7,10,9,5,Demasiado contenido en poco tiempo
+52,7,16,2025-12-16,4,6,7,4,Profesor excelente
+53,187,5,2024-05-25,6,6,6,10,Necesita mejorar la organización
+54,134,16,2025-04-13,6,7,4,10,Las prácticas ayudan mucho
+55,82,3,2025-09-19,6,4,10,4,Muy buena asignatura
+56,88,21,2025-05-21,4,9,10,5,Necesita mejorar la organización
+57,133,6,2024-10-24,8,5,6,9,Las prácticas ayudan mucho
+58,60,13,2024-12-24,9,5,5,9,Muy recomendable
+59,8,24,2025-06-14,8,5,7,9,Muy recomendable
+60,2,23,2025-09-05,5,5,6,4,
+61,27,18,2025-11-01,5,6,6,6,Las prácticas ayudan mucho
+62,30,9,2024-06-24,9,10,7,8,
+63,100,20,2026-01-01,7,8,4,8,Demasiado contenido en poco tiempo
+64,118,20,2025-04-25,5,10,9,7,
+65,152,3,2025-06-08,9,5,6,4,Necesita mejorar la organización
+66,79,4,2025-01-26,5,6,9,5,
+67,100,14,2025-10-08,8,5,8,9,Muy recomendable
+68,48,16,2025-08-07,9,8,9,5,
+69,43,16,2025-11-20,6,5,5,8,Las prácticas ayudan mucho
+70,159,2,2024-09-22,10,6,4,10,Contenido difícil pero útil
+71,50,13,2025-09-21,8,8,9,10,Muy recomendable
+72,176,16,2025-08-02,7,9,10,10,Las prácticas ayudan mucho
+73,43,3,2026-04-01,8,4,10,6,Clases dinámicas y entretenidas
+74,9,9,2025-01-23,5,8,6,5,Las prácticas ayudan mucho
+75,145,24,2025-08-19,10,10,7,4,
+76,30,9,2024-12-14,10,8,10,8,
+77,194,2,2026-05-06,10,9,7,6,Muy recomendable
+78,27,24,2024-10-16,10,9,10,6,Clases dinámicas y entretenidas
+79,9,15,2025-04-06,6,6,10,4,Las prácticas ayudan mucho
+80,31,25,2024-12-07,10,5,5,8,
+81,162,14,2025-07-03,5,8,5,6,Necesita mejorar la organización
+82,16,19,2025-09-11,6,8,6,5,Demasiado contenido en poco tiempo
+83,181,10,2025-01-19,6,8,6,4,Contenido difícil pero útil
+84,193,14,2026-01-04,4,6,10,5,Contenido difícil pero útil
+85,64,5,2025-12-21,9,6,10,6,Muy recomendable
+86,126,5,2025-10-30,8,9,6,9,Muy recomendable
+87,116,3,2025-10-12,9,10,10,4,Muy recomendable
+88,132,24,2025-12-29,6,9,6,10,Las prácticas ayudan mucho
+89,84,19,2024-08-21,4,10,10,4,Las prácticas ayudan mucho
+90,163,22,2025-09-16,9,6,10,4,
+91,102,7,2025-07-26,7,10,5,10,Clases dinámicas y entretenidas
+92,83,10,2025-03-20,6,8,8,5,
+93,125,11,2025-08-04,9,10,4,3,Profesor excelente
+94,161,15,2025-12-30,4,4,10,5,Las prácticas ayudan mucho
+95,117,1,2024-12-25,7,5,9,5,Clases dinámicas y entretenidas
+96,41,9,2025-05-06,4,9,6,7,Profesor excelente
+97,96,22,2025-06-07,9,5,4,9,Clases dinámicas y entretenidas
+98,186,23,2026-03-03,10,5,7,4,Profesor excelente
+99,1,7,2025-04-11,7,4,5,6,
+100,175,15,2025-09-30,4,4,9,8,Profesor excelente
+101,109,23,2024-10-07,5,7,4,6,Muy recomendable
+102,23,24,2025-02-04,10,4,4,8,Demasiado contenido en poco tiempo
+103,77,5,2024-12-05,7,10,10,5,Contenido difícil pero útil
+104,18,17,2025-01-04,8,4,8,5,Las prácticas ayudan mucho
+105,90,24,2025-01-18,5,9,9,5,Muy recomendable
+106,158,22,2026-02-17,7,10,5,4,Profesor excelente
+107,36,25,2025-09-22,4,8,9,9,Demasiado contenido en poco tiempo
+108,110,11,2025-08-30,10,5,5,7,Profesor excelente
+109,64,18,2025-07-04,8,8,9,7,Muy buena asignatura
+110,169,10,2025-04-02,5,8,8,6,Muy recomendable
+111,76,21,2026-04-22,4,10,10,6,Las prácticas ayudan mucho
+112,99,4,2026-01-04,5,7,9,4,
+113,4,12,2025-01-10,6,5,7,9,Demasiado contenido en poco tiempo
+114,140,22,2026-03-04,5,10,7,4,Muy buena asignatura
+115,151,3,2024-11-12,4,6,5,3,Muy buena asignatura
+116,102,17,2026-02-12,6,9,9,9,Muy recomendable
+117,180,13,2025-01-18,4,9,8,5,Clases dinámicas y entretenidas
+118,22,10,2026-03-28,4,8,5,5,
+119,84,13,2024-07-20,8,9,10,4,Clases dinámicas y entretenidas
+120,179,14,2025-08-23,9,10,5,3,Necesita mejorar la organización
+121,23,14,2024-06-15,4,7,8,3,Clases dinámicas y entretenidas
+122,171,24,2025-03-23,9,9,5,4,Muy buena asignatura
+123,182,5,2026-05-08,9,4,5,10,Demasiado contenido en poco tiempo
+124,134,17,2024-09-03,10,10,9,7,Contenido difícil pero útil
+125,96,5,2025-01-03,9,10,10,7,Profesor excelente
+126,198,1,2025-11-03,6,10,7,7,
+127,17,9,2025-06-02,9,8,9,4,Las prácticas ayudan mucho
+128,117,17,2026-05-18,6,4,7,5,Demasiado contenido en poco tiempo
+129,41,9,2025-10-20,10,4,8,4,Necesita mejorar la organización
+130,190,17,2024-07-13,4,4,10,3,Necesita mejorar la organización
+131,12,16,2026-03-26,6,7,5,5,Muy buena asignatura
+132,142,23,2024-06-22,9,9,7,6,Demasiado contenido en poco tiempo
+133,64,14,2025-10-25,9,6,6,4,
+134,96,4,2026-04-29,8,9,4,5,Necesita mejorar la organización
+135,133,2,2025-02-23,7,4,7,7,Clases dinámicas y entretenidas
+136,84,3,2024-07-15,8,7,4,8,Necesita mejorar la organización
+137,75,19,2025-01-07,10,6,9,6,Las prácticas ayudan mucho
+138,95,19,2025-02-28,7,10,10,6,
+139,195,8,2025-10-14,5,4,7,3,Necesita mejorar la organización
+140,139,12,2024-09-07,9,10,9,3,Demasiado contenido en poco tiempo
+141,1,25,2025-09-01,9,7,10,7,Profesor excelente
+142,53,17,2025-01-12,5,7,7,3,Contenido difícil pero útil
+143,183,9,2024-09-04,4,4,5,9,Demasiado contenido en poco tiempo
+144,118,24,2024-06-13,4,8,4,5,Muy recomendable
+145,20,19,2026-03-30,8,4,7,5,Necesita mejorar la organización
+146,75,9,2025-01-09,10,6,10,9,Demasiado contenido en poco tiempo
+147,82,15,2024-11-06,6,5,4,6,Contenido difícil pero útil
+148,200,25,2024-10-26,8,4,5,4,Contenido difícil pero útil
+149,116,15,2024-11-18,6,7,4,8,Necesita mejorar la organización
+150,116,10,2026-01-11,7,6,10,4,Profesor excelente
+151,41,22,2025-02-05,6,10,9,3,Necesita mejorar la organización
+152,84,5,2025-02-27,4,9,5,8,Muy recomendable
+153,132,2,2026-03-31,9,6,6,5,Muy buena asignatura
+154,104,15,2025-03-18,8,9,8,6,Profesor excelente
+155,119,4,2026-02-15,10,10,5,4,Muy buena asignatura
+156,16,25,2026-01-20,5,5,5,9,Demasiado contenido en poco tiempo
+157,176,21,2024-10-01,9,4,8,7,Profesor excelente
+158,6,3,2024-07-03,5,9,7,5,Profesor excelente
+159,85,4,2025-05-17,4,7,4,5,
+160,111,24,2026-03-06,7,7,4,9,Muy recomendable
+161,45,12,2025-08-05,5,5,6,7,Las prácticas ayudan mucho
+162,39,2,2024-11-26,8,8,8,6,Clases dinámicas y entretenidas
+163,128,14,2026-01-10,8,7,4,4,Clases dinámicas y entretenidas
+164,99,5,2024-08-10,7,5,9,6,
+165,5,13,2024-11-07,10,9,6,10,
+166,125,12,2025-07-14,8,8,6,9,Clases dinámicas y entretenidas
+167,47,1,2025-02-24,6,8,5,3,Clases dinámicas y entretenidas
+168,15,16,2024-12-17,8,6,10,6,Contenido difícil pero útil
+169,26,8,2026-01-29,9,5,6,3,Necesita mejorar la organización
+170,148,13,2024-07-04,6,10,10,5,Contenido difícil pero útil
+171,61,19,2025-05-21,6,10,9,8,
+172,8,23,2026-01-25,9,6,8,5,
+173,49,16,2025-04-12,8,6,5,10,Muy buena asignatura
+174,24,2,2025-08-07,5,8,5,3,
+175,123,1,2025-10-09,6,8,5,5,Demasiado contenido en poco tiempo
+176,184,6,2024-10-02,10,10,10,8,Muy buena asignatura
+177,6,5,2024-08-15,8,9,5,4,
+178,94,3,2025-01-24,6,9,9,9,
+179,26,11,2026-04-03,6,6,5,5,Muy recomendable
+180,164,16,2024-07-29,9,6,5,8,Necesita mejorar la organización
+181,171,19,2025-04-14,10,5,7,7,Clases dinámicas y entretenidas
+182,33,6,2025-06-21,9,4,9,9,
+183,9,6,2024-11-09,8,6,10,6,
+184,27,16,2025-05-29,5,6,9,4,Necesita mejorar la organización
+185,89,11,2025-04-14,5,9,4,8,Las prácticas ayudan mucho
+186,3,9,2025-06-07,5,5,9,4,Demasiado contenido en poco tiempo
+187,66,4,2025-02-23,9,4,4,9,Las prácticas ayudan mucho
+188,188,14,2024-09-03,5,7,7,9,Demasiado contenido en poco tiempo
+189,140,13,2025-07-12,4,10,7,6,Contenido difícil pero útil
+190,116,3,2024-08-22,10,10,4,7,Muy buena asignatura
+191,82,9,2024-08-01,4,4,6,5,Muy recomendable
+192,42,24,2024-07-15,4,8,4,8,
+193,158,16,2025-10-18,9,4,7,5,
+194,112,6,2025-12-28,4,4,6,6,Necesita mejorar la organización
+195,105,23,2025-06-23,8,9,9,7,Clases dinámicas y entretenidas
+196,77,8,2024-11-12,4,4,7,10,Contenido difícil pero útil
+197,14,12,2026-03-27,4,7,4,7,
+198,123,7,2024-06-22,4,4,5,5,Clases dinámicas y entretenidas
+199,21,16,2024-07-13,10,4,6,9,Las prácticas ayudan mucho
+200,126,22,2024-11-28,6,4,9,9,Contenido difícil pero útil
+201,95,13,2026-05-24,6,5,7,3,Clases dinámicas y entretenidas
+202,113,15,2024-09-04,6,5,10,7,
+203,16,5,2025-11-27,10,9,9,4,Profesor excelente
+204,172,12,2025-10-24,10,8,7,6,
+205,16,13,2026-02-26,10,8,7,10,
+206,61,16,2025-06-02,6,4,7,3,
+207,147,17,2025-03-26,10,8,9,5,Profesor excelente
+208,194,15,2025-04-27,5,5,5,6,Contenido difícil pero útil
+209,11,14,2025-07-12,4,9,7,6,Contenido difícil pero útil
+210,153,9,2025-04-23,6,9,10,4,Profesor excelente
+211,100,18,2026-04-07,7,8,6,7,
+212,118,1,2025-05-27,10,9,8,9,Profesor excelente
+213,107,5,2025-10-26,5,8,8,4,Profesor excelente
+214,145,25,2025-05-25,4,10,6,8,Muy recomendable
+215,68,13,2026-01-16,9,7,8,10,Muy buena asignatura
+216,45,9,2024-09-30,7,5,8,9,Muy buena asignatura
+217,102,11,2024-12-04,9,5,4,10,Clases dinámicas y entretenidas
+218,96,1,2026-05-16,6,10,10,7,Clases dinámicas y entretenidas
+219,72,16,2026-03-04,10,9,9,4,Necesita mejorar la organización
+220,35,10,2025-11-02,9,7,10,8,Clases dinámicas y entretenidas
+221,187,14,2024-09-06,8,9,4,6,Las prácticas ayudan mucho
+222,55,14,2024-06-16,9,7,10,8,Muy buena asignatura
+223,132,6,2024-06-02,4,6,9,9,Contenido difícil pero útil
+224,200,17,2024-07-22,8,4,5,6,Necesita mejorar la organización
+225,15,8,2025-10-28,4,7,4,8,Necesita mejorar la organización
+226,71,12,2024-10-29,10,7,8,9,Profesor excelente
+227,175,1,2024-06-08,5,6,7,10,Contenido difícil pero útil
+228,122,19,2024-12-03,8,6,6,5,Clases dinámicas y entretenidas
+229,192,23,2026-03-19,4,6,4,9,Muy buena asignatura
+230,42,19,2024-08-03,10,5,10,6,Necesita mejorar la organización
+231,174,7,2024-08-01,6,9,7,3,Muy buena asignatura
+232,122,5,2025-02-15,9,5,8,3,Necesita mejorar la organización
+233,65,20,2024-07-04,10,6,9,7,Muy recomendable
+234,97,12,2024-06-04,7,6,5,10,Clases dinámicas y entretenidas
+235,174,17,2024-11-24,10,8,7,4,Muy buena asignatura
+236,131,22,2024-12-21,10,10,6,7,Clases dinámicas y entretenidas
+237,176,4,2024-10-05,7,4,6,7,Demasiado contenido en poco tiempo
+238,71,9,2026-01-07,9,9,9,7,Necesita mejorar la organización
+239,39,17,2025-06-09,10,5,4,9,Demasiado contenido en poco tiempo
+240,175,5,2024-11-30,9,4,9,10,Clases dinámicas y entretenidas
+241,67,14,2026-04-17,7,7,9,3,
+242,182,19,2025-10-30,10,5,6,6,
+243,164,16,2025-02-11,9,6,8,7,Contenido difícil pero útil
+244,169,18,2025-09-02,5,6,4,10,Contenido difícil pero útil
+245,190,9,2025-09-22,9,10,8,5,Demasiado contenido en poco tiempo
+246,168,3,2026-05-14,5,6,5,7,Muy recomendable
+247,85,12,2024-08-31,6,8,6,10,Profesor excelente
+248,121,2,2025-04-27,10,9,8,4,Las prácticas ayudan mucho
+249,50,17,2025-02-25,4,10,9,9,
+250,77,14,2025-04-30,4,10,10,5,Contenido difícil pero útil
+251,52,11,2026-05-03,7,8,7,5,Demasiado contenido en poco tiempo
+252,184,6,2024-07-27,10,4,7,8,Contenido difícil pero útil
+253,81,21,2026-04-05,4,4,7,7,Necesita mejorar la organización
+254,195,25,2025-11-11,5,8,10,5,Las prácticas ayudan mucho
+255,196,25,2025-06-17,4,5,8,9,Muy recomendable
+256,104,14,2025-12-13,7,7,4,3,
+257,52,24,2025-09-13,6,4,6,6,Muy buena asignatura
+258,174,1,2024-11-07,9,9,5,6,Demasiado contenido en poco tiempo
+259,80,5,2024-11-29,4,7,8,7,Contenido difícil pero útil
+260,17,2,2025-11-29,6,6,7,8,Muy recomendable
+261,176,5,2025-01-05,6,7,6,6,Contenido difícil pero útil
+262,104,1,2024-12-25,5,5,9,5,Necesita mejorar la organización
+263,188,1,2025-06-16,8,8,5,4,Demasiado contenido en poco tiempo
+264,183,21,2024-09-27,10,4,7,7,
+265,160,2,2026-02-02,8,4,9,4,Muy buena asignatura
+266,13,23,2025-01-31,4,7,7,9,Profesor excelente
+267,141,9,2024-07-21,7,9,5,6,Muy buena asignatura
+268,78,14,2025-01-22,9,4,9,7,
+269,156,23,2026-01-03,5,7,10,4,
+270,185,20,2025-01-30,4,6,4,4,Las prácticas ayudan mucho
+271,51,20,2024-08-22,5,10,6,6,Demasiado contenido en poco tiempo
+272,181,14,2024-06-19,6,5,4,10,Necesita mejorar la organización
+273,177,16,2024-07-11,6,5,4,3,Profesor excelente
+274,29,19,2026-03-27,9,7,5,4,
+275,20,24,2025-12-28,9,4,6,6,Las prácticas ayudan mucho
+276,76,9,2024-10-01,7,4,4,5,Muy buena asignatura
+277,75,12,2024-08-29,10,9,6,9,Profesor excelente
+278,25,25,2025-01-13,4,4,10,5,Contenido difícil pero útil
+279,85,12,2026-01-21,7,8,6,4,Demasiado contenido en poco tiempo
+280,88,6,2025-01-12,4,7,7,10,Clases dinámicas y entretenidas
+281,99,23,2024-08-21,10,7,10,9,Contenido difícil pero útil
+282,29,5,2024-10-28,9,9,4,5,Profesor excelente
+283,107,19,2026-05-14,7,10,8,10,Contenido difícil pero útil
+284,157,13,2026-02-04,10,6,8,3,Contenido difícil pero útil
+285,124,16,2025-02-06,4,7,7,3,Profesor excelente
+286,67,21,2025-02-13,6,4,9,6,Demasiado contenido en poco tiempo
+287,133,17,2024-06-25,9,9,8,4,Muy recomendable
+288,170,24,2024-12-05,5,7,6,9,Contenido difícil pero útil
+289,143,20,2025-06-24,4,4,9,5,
+290,121,16,2024-10-18,10,5,4,10,Demasiado contenido en poco tiempo
+291,62,11,2024-11-25,6,4,8,6,
+292,165,13,2024-11-25,7,10,5,4,Las prácticas ayudan mucho
+293,114,19,2025-10-22,7,4,10,10,Las prácticas ayudan mucho
+294,81,4,2025-07-14,7,9,9,3,Profesor excelente
+295,104,14,2025-04-29,4,8,8,3,Profesor excelente
+296,155,20,2024-06-25,9,6,8,6,Las prácticas ayudan mucho
+297,88,12,2025-12-03,10,4,10,6,Las prácticas ayudan mucho
+298,85,18,2026-03-30,10,8,8,10,Demasiado contenido en poco tiempo
+299,184,15,2024-11-03,4,4,10,6,Muy buena asignatura
+300,88,12,2025-01-12,10,9,10,7,
+301,134,12,2025-04-10,9,4,4,5,Las prácticas ayudan mucho
+302,36,23,2026-04-18,9,9,7,4,Clases dinámicas y entretenidas
+303,157,7,2024-09-20,5,4,10,9,Necesita mejorar la organización
+304,118,7,2025-05-10,9,6,4,9,Muy buena asignatura
+305,163,22,2025-07-31,8,4,10,10,Las prácticas ayudan mucho
+306,169,19,2025-11-19,8,5,7,3,
+307,189,2,2025-04-10,8,7,10,10,
+308,200,6,2025-02-28,9,8,5,5,Profesor excelente
+309,100,22,2025-06-15,8,8,6,9,Muy recomendable
+310,156,23,2026-05-09,10,5,6,9,Demasiado contenido en poco tiempo
+311,76,15,2025-09-12,10,5,5,9,
+312,180,24,2026-04-11,8,6,10,8,
+313,162,7,2025-10-02,5,5,8,7,Demasiado contenido en poco tiempo
+314,173,5,2026-03-27,9,9,5,8,Profesor excelente
+315,195,12,2026-04-21,8,7,8,9,
+316,74,14,2025-03-07,10,4,8,4,Muy buena asignatura
+317,98,5,2025-10-14,4,9,4,6,Clases dinámicas y entretenidas
+318,193,6,2024-09-08,6,9,6,5,Muy buena asignatura
+319,177,10,2026-01-05,5,10,8,3,Demasiado contenido en poco tiempo
+320,116,4,2025-09-13,8,10,9,6,
+321,100,8,2024-07-11,8,10,10,7,Muy buena asignatura
+322,98,13,2026-02-14,7,10,9,8,
+323,14,1,2025-05-03,9,6,5,10,Necesita mejorar la organización
+324,163,23,2025-02-08,9,9,6,6,Necesita mejorar la organización
+325,76,15,2026-05-16,5,9,4,5,Contenido difícil pero útil
+326,189,17,2024-11-13,4,7,4,9,Clases dinámicas y entretenidas
+327,143,9,2025-08-29,5,5,8,7,Muy buena asignatura
+328,85,15,2025-01-08,9,5,4,5,Demasiado contenido en poco tiempo
+329,153,2,2024-10-08,10,9,8,7,Las prácticas ayudan mucho
+330,147,18,2025-12-17,6,4,10,8,
+331,57,6,2024-06-18,8,4,10,5,Muy recomendable
+332,140,18,2024-12-31,7,4,6,6,Necesita mejorar la organización
+333,170,11,2025-07-10,6,6,6,6,
+334,136,16,2026-04-19,8,10,10,3,Profesor excelente
+335,172,12,2025-01-09,7,5,9,6,Muy buena asignatura
+336,175,11,2026-04-26,7,10,4,9,Clases dinámicas y entretenidas
+337,139,24,2026-04-20,6,4,8,8,
+338,131,15,2025-03-19,7,4,6,6,Demasiado contenido en poco tiempo
+339,132,3,2025-09-15,4,5,10,3,Profesor excelente
+340,54,22,2025-06-16,9,10,5,9,Profesor excelente
+341,53,18,2025-07-18,10,9,9,9,Profesor excelente
+342,192,22,2024-08-10,5,4,7,8,Muy buena asignatura
+343,23,3,2026-05-21,4,5,10,7,
+344,19,19,2025-09-21,10,5,6,9,Muy recomendable
+345,116,21,2025-04-12,7,7,6,3,Muy recomendable
+346,173,4,2025-03-04,8,4,9,4,
+347,12,23,2026-05-12,10,4,6,4,Clases dinámicas y entretenidas
+348,176,10,2025-06-01,8,4,6,10,Muy recomendable
+349,102,22,2025-05-19,4,7,5,6,Contenido difícil pero útil
+350,192,13,2025-09-04,10,10,10,7,Contenido difícil pero útil
+351,77,22,2024-07-10,10,10,9,8,Muy buena asignatura
+352,142,18,2024-12-02,5,4,4,3,
+353,153,13,2024-10-19,8,8,4,7,Necesita mejorar la organización
+354,192,24,2026-04-04,9,6,5,9,
+355,37,6,2025-07-12,5,5,8,7,Necesita mejorar la organización
+356,30,6,2024-12-19,9,10,8,3,
+357,119,21,2025-10-08,8,4,6,4,Clases dinámicas y entretenidas
+358,26,7,2026-05-22,9,8,7,8,Demasiado contenido en poco tiempo
+359,33,22,2024-10-28,9,5,4,7,
+360,18,7,2026-01-16,6,7,7,8,
+361,169,10,2025-09-07,9,8,5,8,Demasiado contenido en poco tiempo
+362,110,6,2024-07-05,4,6,5,6,Muy recomendable
+363,71,12,2025-08-15,5,9,9,8,Las prácticas ayudan mucho
+364,119,15,2025-01-19,6,10,6,10,
+365,28,6,2025-08-11,9,8,4,7,Contenido difícil pero útil
+366,138,7,2024-09-26,6,9,9,4,Profesor excelente
+367,5,17,2025-05-07,9,4,10,9,
+368,55,2,2025-01-05,8,6,8,10,Contenido difícil pero útil
+369,94,13,2024-08-22,5,10,8,7,Contenido difícil pero útil
+370,119,17,2026-05-16,8,4,7,8,
+371,3,22,2026-02-14,5,10,10,5,
+372,36,15,2025-04-06,5,5,8,5,Las prácticas ayudan mucho
+373,92,2,2024-07-22,5,10,7,6,Profesor excelente
+374,68,12,2025-11-03,5,4,9,6,
+375,93,13,2024-05-24,7,7,4,3,Demasiado contenido en poco tiempo
+376,27,23,2024-12-04,8,9,10,7,Clases dinámicas y entretenidas
+377,149,18,2025-08-17,8,5,7,9,Demasiado contenido en poco tiempo
+378,151,21,2025-12-31,10,4,8,7,Muy recomendable
+379,58,17,2025-09-20,7,6,10,8,Las prácticas ayudan mucho
+380,124,20,2024-06-30,4,8,5,10,Contenido difícil pero útil
+381,59,3,2025-01-01,8,9,6,6,Contenido difícil pero útil
+382,48,6,2025-12-08,6,8,9,4,Necesita mejorar la organización
+383,107,11,2025-06-21,9,4,7,10,Las prácticas ayudan mucho
+384,54,19,2025-11-13,5,9,10,9,Muy buena asignatura
+385,63,2,2025-02-17,5,8,8,5,Contenido difícil pero útil
+386,162,17,2024-06-22,4,8,5,3,Contenido difícil pero útil
+387,67,6,2025-02-13,8,7,8,3,Clases dinámicas y entretenidas
+388,22,7,2026-05-09,7,8,7,10,Contenido difícil pero útil
+389,57,14,2025-03-16,8,5,10,5,
+390,169,17,2025-05-06,6,5,9,8,Las prácticas ayudan mucho
+391,153,19,2026-03-29,4,5,7,9,Contenido difícil pero útil
+392,28,1,2024-09-30,5,8,10,9,Contenido difícil pero útil
+393,156,4,2025-06-15,5,7,8,3,
+394,129,25,2024-08-09,4,4,7,5,
+395,139,1,2024-12-14,10,9,9,9,
+396,108,12,2025-01-06,10,4,9,9,Necesita mejorar la organización
+397,124,25,2025-10-20,7,6,8,4,Muy recomendable
+398,35,9,2025-06-08,7,10,5,4,Clases dinámicas y entretenidas
+399,154,18,2025-10-11,7,6,5,3,Muy buena asignatura
+400,148,17,2024-08-04,4,8,4,9,Necesita mejorar la organización
+401,177,11,2026-05-02,7,6,4,5,Muy recomendable
+402,167,19,2025-11-21,6,6,10,9,
+403,94,20,2025-08-07,6,9,7,6,Muy recomendable
+404,142,18,2025-11-02,7,5,6,10,Clases dinámicas y entretenidas
+405,79,19,2025-09-15,6,10,9,9,Contenido difícil pero útil
+406,169,4,2025-03-08,9,5,7,5,Profesor excelente
+407,55,17,2024-12-16,7,10,6,3,Contenido difícil pero útil
+408,100,21,2025-05-12,4,10,4,5,Las prácticas ayudan mucho
+409,154,14,2025-11-03,4,4,6,6,Demasiado contenido en poco tiempo
+410,21,20,2025-04-30,4,9,7,9,
+411,168,17,2026-03-19,6,9,8,3,Contenido difícil pero útil
+412,164,16,2024-08-16,7,4,5,7,Necesita mejorar la organización
+413,9,20,2025-02-25,8,8,9,6,
+414,44,22,2025-12-29,4,6,5,3,Contenido difícil pero útil
+415,23,9,2025-10-04,10,7,6,9,Muy recomendable
+416,151,7,2025-09-16,8,4,9,4,Profesor excelente
+417,141,10,2024-10-03,9,10,8,8,Demasiado contenido en poco tiempo
+418,71,8,2024-09-25,8,5,7,9,
+419,2,9,2025-01-22,5,7,8,4,
+420,19,17,2025-02-27,6,6,4,7,
+421,148,9,2025-03-14,9,7,7,10,Necesita mejorar la organización
+422,194,11,2024-08-25,10,7,9,10,
+423,8,16,2025-05-18,4,6,4,9,Necesita mejorar la organización
+424,174,23,2026-05-17,5,10,6,9,Demasiado contenido en poco tiempo
+425,133,18,2024-09-05,4,9,10,7,Necesita mejorar la organización
+426,74,3,2025-09-22,7,9,9,8,Profesor excelente
+427,142,6,2025-11-17,7,6,6,6,
+428,69,6,2025-03-02,9,9,5,10,Necesita mejorar la organización
+429,61,24,2024-06-01,5,10,6,6,Necesita mejorar la organización
+430,52,8,2025-04-16,10,8,6,5,Profesor excelente
+431,31,3,2025-09-18,9,9,7,3,
+432,11,16,2025-06-26,6,8,6,10,
+433,71,16,2024-09-26,5,10,8,7,Muy recomendable
+434,57,25,2025-07-01,8,5,4,9,Las prácticas ayudan mucho
+435,139,2,2025-11-27,8,6,7,5,Las prácticas ayudan mucho
+436,31,23,2026-05-14,8,7,6,3,Muy buena asignatura
+437,173,7,2024-10-06,7,8,4,8,Demasiado contenido en poco tiempo
+438,157,9,2025-01-11,5,8,6,6,Clases dinámicas y entretenidas
+439,121,20,2025-10-07,6,6,5,10,Muy recomendable
+440,54,14,2025-01-22,9,10,6,8,Muy recomendable
+441,72,15,2024-09-17,5,8,5,6,Profesor excelente
+442,185,9,2025-12-27,10,5,8,9,Muy recomendable
+443,51,5,2024-09-11,10,9,5,10,Muy buena asignatura
+444,46,14,2026-05-23,7,5,10,8,Las prácticas ayudan mucho
+445,77,9,2025-01-22,8,10,8,3,Muy recomendable
+446,26,23,2024-09-05,5,4,5,7,Las prácticas ayudan mucho
+447,162,4,2025-01-28,7,9,6,7,Demasiado contenido en poco tiempo
+448,93,18,2025-11-23,8,10,6,8,Muy buena asignatura
+449,106,4,2026-02-12,6,10,9,6,
+450,148,21,2024-08-30,9,8,5,7,Demasiado contenido en poco tiempo
+451,84,22,2026-02-04,8,7,10,10,Profesor excelente
+452,98,20,2024-09-24,6,7,9,5,Contenido difícil pero útil
+453,164,11,2025-01-09,7,9,8,9,Profesor excelente
+454,21,6,2025-07-21,6,5,6,8,Clases dinámicas y entretenidas
+455,182,9,2024-07-02,8,9,7,7,Las prácticas ayudan mucho
+456,200,12,2024-12-01,9,8,8,10,Muy recomendable
+457,43,6,2024-06-17,10,4,5,6,Clases dinámicas y entretenidas
+458,191,23,2024-08-18,9,4,5,5,Muy recomendable
+459,27,4,2025-06-27,4,7,8,3,Muy buena asignatura
+460,198,13,2026-03-19,8,10,4,4,Clases dinámicas y entretenidas
+461,159,5,2026-01-19,4,9,7,7,Necesita mejorar la organización
+462,64,24,2025-09-05,6,7,9,5,Contenido difícil pero útil
+463,135,6,2024-07-27,4,4,9,8,Demasiado contenido en poco tiempo
+464,122,15,2025-09-15,10,8,6,10,Contenido difícil pero útil
+465,179,18,2024-06-05,5,8,8,10,
+466,112,17,2024-12-11,9,9,8,7,Demasiado contenido en poco tiempo
+467,124,18,2025-06-13,5,10,4,10,Clases dinámicas y entretenidas
+468,94,14,2026-04-23,6,5,6,3,Muy buena asignatura
+469,134,25,2026-02-19,10,5,6,7,Las prácticas ayudan mucho
+470,137,1,2025-03-07,9,7,10,10,Clases dinámicas y entretenidas
+471,3,25,2025-03-27,7,10,6,6,Muy buena asignatura
+472,141,12,2024-12-08,5,7,8,9,Muy recomendable
+473,64,6,2025-02-20,9,9,9,9,Muy recomendable
+474,57,9,2024-11-28,4,7,9,6,
+475,196,20,2025-06-07,10,9,9,7,Clases dinámicas y entretenidas
+476,167,24,2024-10-20,8,10,6,9,Necesita mejorar la organización
+477,18,6,2026-05-23,5,6,4,10,
+478,116,9,2024-10-02,9,8,7,6,Demasiado contenido en poco tiempo
+479,5,5,2026-02-26,4,8,4,5,Profesor excelente
+480,73,9,2025-10-03,5,9,7,3,Necesita mejorar la organización
+481,24,5,2024-08-20,4,7,5,8,Muy recomendable
+482,80,16,2025-02-24,6,7,9,3,Demasiado contenido en poco tiempo
+483,21,25,2025-06-16,5,4,6,9,Profesor excelente
+484,140,16,2024-05-25,5,5,10,7,Muy recomendable
+485,4,4,2025-12-09,10,9,5,9,Las prácticas ayudan mucho
+486,64,24,2024-10-15,4,5,7,4,
+487,171,7,2026-03-04,7,7,9,7,Demasiado contenido en poco tiempo
+488,41,21,2024-10-01,9,4,9,4,Clases dinámicas y entretenidas
+489,124,21,2025-02-25,6,5,6,3,Necesita mejorar la organización
+490,29,8,2025-11-13,9,7,6,3,Contenido difícil pero útil
+491,71,19,2025-12-15,4,7,10,6,Muy buena asignatura
+492,11,19,2026-01-20,10,9,7,5,Demasiado contenido en poco tiempo
+493,198,3,2026-03-01,5,5,7,4,
+494,87,25,2024-08-11,9,4,4,8,Contenido difícil pero útil
+495,180,18,2025-02-09,10,4,5,10,Necesita mejorar la organización
+496,82,18,2025-10-09,10,9,10,8,Las prácticas ayudan mucho
+497,188,7,2025-04-18,4,9,7,8,Contenido difícil pero útil
+498,65,2,2025-09-20,7,9,7,7,
+499,179,16,2025-04-23,5,8,5,8,Demasiado contenido en poco tiempo
+500,188,15,2025-02-28,6,10,10,5,Profesor excelente

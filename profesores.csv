@@ -1,0 +1,21 @@
+id_profesor,nombre_profesor,departamento,antiguedad,tipo_contrato
+1,Susanita Quevedo Sainz,Administración,4,Indefinido
+2,Mamen de Miranda,Administración,9,Indefinido
+3,Poncio Chaves Cuéllar,Informática,5,Asociado
+4,Clementina de Coronado,Informática,22,Asociado
+5,Dan Bernad Agudo,Administración,3,Asociado
+6,Nicanor Pedrosa,Marketing,2,Indefinido
+7,Noé Arcos Vives,Informática,7,Indefinido
+8,Belén Lobo Ayuso,Administración,20,Indefinido
+9,Edgardo Pagès Patiño,Administración,7,Asociado
+10,Melania Mateo Beltrán,Administración,23,Asociado
+11,Tiburcio Álamo Sancho,Marketing,8,Interino
+12,Pascuala Sosa,Administración,9,Indefinido
+13,Sarita Larrea-Criado,Informática,23,Interino
+14,Fulgencio Manu Calvo Anglada,Marketing,9,Indefinido
+15,Natividad Alonso Barragán,Informática,25,Interino
+16,Pili Almansa Gras,Informática,3,Interino
+17,Flora de Bas,Informática,12,Interino
+18,Socorro del Bolaños,Administración,9,Indefinido
+19,Isaías Mosquera,Administración,15,Asociado
+20,Ricardo Cabrera Amorós,Informática,13,Indefinido

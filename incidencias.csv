@@ -1,0 +1,301 @@
+id_incidencia,id_alumno,fecha,tipo_incidencia,gravedad,resuelta
+1,136,2024-06-13,Ausencia,Media,No
+2,68,2026-03-25,Falta disciplinaria,Media,Sí
+3,199,2025-06-20,Problema técnico,Alta,Sí
+4,5,2024-05-25,Falta disciplinaria,Alta,Sí
+5,83,2025-04-21,Retraso,Alta,No
+6,49,2024-10-23,Problema técnico,Alta,Sí
+7,157,2024-08-31,Falta disciplinaria,Media,No
+8,165,2026-03-21,Falta disciplinaria,Baja,Sí
+9,134,2025-03-08,Retraso,Baja,Sí
+10,46,2025-05-07,Retraso,Baja,Sí
+11,125,2024-05-28,Ausencia,Baja,Sí
+12,147,2025-09-15,Problema técnico,Alta,No
+13,135,2025-07-27,Falta disciplinaria,Baja,No
+14,57,2025-03-11,Retraso,Baja,Sí
+15,168,2026-02-19,Problema técnico,Baja,No
+16,164,2025-10-07,Retraso,Media,No
+17,95,2024-07-14,Retraso,Alta,No
+18,136,2024-11-25,Retraso,Alta,Sí
+19,78,2025-11-16,Retraso,Baja,Sí
+20,26,2026-04-04,Ausencia,Alta,No
+21,49,2026-02-03,Ausencia,Alta,Sí
+22,146,2024-10-05,Ausencia,Alta,No
+23,192,2024-08-23,Retraso,Alta,No
+24,173,2025-12-30,Problema técnico,Alta,No
+25,27,2024-09-30,Ausencia,Baja,No
+26,130,2025-07-18,Falta disciplinaria,Alta,Sí
+27,137,2024-08-27,Problema técnico,Media,No
+28,141,2025-12-22,Falta disciplinaria,Media,No
+29,196,2026-03-03,Problema técnico,Alta,No
+30,156,2025-08-18,Ausencia,Alta,Sí
+31,97,2025-02-24,Falta disciplinaria,Media,No
+32,115,2025-04-13,Problema técnico,Baja,Sí
+33,73,2024-10-28,Retraso,Alta,Sí
+34,78,2026-03-31,Retraso,Media,Sí
+35,55,2024-06-22,Falta disciplinaria,Baja,No
+36,142,2025-05-04,Ausencia,Baja,Sí
+37,118,2025-01-26,Falta disciplinaria,Baja,Sí
+38,68,2024-09-04,Falta disciplinaria,Alta,Sí
+39,60,2024-09-07,Falta disciplinaria,Media,Sí
+40,147,2025-09-27,Problema técnico,Alta,Sí
+41,188,2025-11-11,Retraso,Alta,No
+42,124,2025-12-16,Ausencia,Media,Sí
+43,153,2026-01-08,Falta disciplinaria,Baja,No
+44,21,2024-07-05,Retraso,Media,No
+45,112,2026-03-06,Problema técnico,Baja,Sí
+46,192,2025-05-09,Retraso,Alta,No
+47,14,2026-03-21,Falta disciplinaria,Alta,Sí
+48,82,2026-03-29,Ausencia,Media,Sí
+49,40,2026-03-26,Retraso,Alta,No
+50,115,2025-04-20,Retraso,Baja,No
+51,75,2026-01-18,Problema técnico,Baja,Sí
+52,87,2026-01-31,Retraso,Media,Sí
+53,141,2026-01-05,Problema técnico,Media,Sí
+54,103,2025-03-06,Problema técnico,Alta,Sí
+55,196,2026-02-07,Ausencia,Media,Sí
+56,125,2024-10-04,Problema técnico,Alta,Sí
+57,144,2024-10-30,Ausencia,Baja,Sí
+58,69,2026-02-24,Problema técnico,Media,Sí
+59,29,2024-10-10,Problema técnico,Media,No
+60,90,2024-12-26,Ausencia,Media,No
+61,153,2025-07-01,Retraso,Media,Sí
+62,90,2025-11-15,Problema técnico,Alta,Sí
+63,113,2026-03-30,Retraso,Baja,Sí
+64,176,2025-04-02,Falta disciplinaria,Baja,Sí
+65,29,2026-04-15,Retraso,Baja,Sí
+66,74,2026-01-20,Retraso,Media,Sí
+67,79,2025-12-18,Problema técnico,Media,Sí
+68,85,2025-12-31,Ausencia,Alta,Sí
+69,53,2024-10-07,Falta disciplinaria,Alta,No
+70,160,2026-04-10,Ausencia,Alta,Sí
+71,97,2025-01-29,Retraso,Media,Sí
+72,16,2025-02-10,Falta disciplinaria,Baja,No
+73,14,2025-12-21,Problema técnico,Alta,Sí
+74,18,2026-01-29,Problema técnico,Alta,No
+75,170,2025-08-15,Falta disciplinaria,Baja,Sí
+76,75,2025-05-16,Problema técnico,Baja,No
+77,131,2026-04-10,Retraso,Media,No
+78,153,2024-10-01,Retraso,Baja,Sí
+79,129,2026-01-17,Problema técnico,Alta,Sí
+80,11,2024-10-17,Ausencia,Alta,No
+81,86,2024-07-30,Problema técnico,Media,Sí
+82,5,2025-11-27,Falta disciplinaria,Alta,No
+83,91,2025-10-03,Falta disciplinaria,Baja,No
+84,16,2024-09-09,Falta disciplinaria,Media,Sí
+85,143,2026-02-28,Falta disciplinaria,Baja,Sí
+86,88,2025-04-09,Problema técnico,Alta,Sí
+87,23,2024-05-31,Problema técnico,Alta,Sí
+88,107,2026-03-18,Ausencia,Alta,Sí
+89,110,2025-11-17,Falta disciplinaria,Alta,No
+90,115,2025-07-08,Ausencia,Baja,Sí
+91,149,2025-06-10,Ausencia,Baja,No
+92,177,2025-04-30,Ausencia,Media,Sí
+93,168,2025-04-06,Ausencia,Media,Sí
+94,143,2024-08-16,Retraso,Baja,No
+95,38,2026-02-25,Retraso,Media,No
+96,106,2025-10-30,Falta disciplinaria,Media,No
+97,39,2026-04-05,Ausencia,Baja,Sí
+98,48,2025-07-28,Retraso,Alta,No
+99,156,2026-04-28,Ausencia,Alta,Sí
+100,60,2026-05-07,Retraso,Media,Sí
+101,177,2026-05-09,Problema técnico,Baja,No
+102,183,2025-09-12,Falta disciplinaria,Baja,No
+103,126,2026-01-14,Problema técnico,Baja,Sí
+104,50,2026-03-24,Ausencia,Baja,No
+105,196,2025-03-30,Retraso,Media,No
+106,57,2025-03-09,Ausencia,Baja,Sí
+107,46,2025-10-20,Problema técnico,Alta,No
+108,177,2026-04-19,Falta disciplinaria,Media,Sí
+109,110,2024-10-02,Problema técnico,Baja,No
+110,185,2025-07-23,Falta disciplinaria,Media,Sí
+111,134,2024-07-14,Retraso,Media,No
+112,11,2024-05-25,Ausencia,Alta,No
+113,189,2025-04-10,Retraso,Alta,No
+114,133,2024-08-23,Retraso,Baja,No
+115,113,2025-03-03,Problema técnico,Media,No
+116,119,2026-05-09,Ausencia,Media,No
+117,157,2025-02-06,Retraso,Alta,Sí
+118,119,2024-07-08,Problema técnico,Baja,Sí
+119,47,2025-07-08,Ausencia,Media,No
+120,83,2026-04-06,Problema técnico,Baja,Sí
+121,117,2024-09-19,Ausencia,Media,Sí
+122,65,2024-10-22,Falta disciplinaria,Alta,Sí
+123,184,2025-03-21,Retraso,Baja,Sí
+124,181,2025-12-03,Problema técnico,Alta,No
+125,22,2024-12-29,Problema técnico,Alta,Sí
+126,97,2025-03-19,Problema técnico,Baja,Sí
+127,86,2026-02-02,Ausencia,Baja,Sí
+128,46,2024-07-02,Retraso,Media,No
+129,80,2025-10-04,Problema técnico,Media,Sí
+130,31,2025-01-14,Ausencia,Baja,Sí
+131,160,2025-04-15,Falta disciplinaria,Baja,No
+132,128,2024-11-23,Problema técnico,Alta,Sí
+133,156,2025-12-19,Problema técnico,Baja,Sí
+134,151,2026-04-15,Problema técnico,Media,No
+135,114,2025-09-12,Retraso,Alta,Sí
+136,63,2024-09-13,Falta disciplinaria,Alta,Sí
+137,13,2026-02-21,Ausencia,Baja,Sí
+138,168,2024-10-15,Falta disciplinaria,Baja,Sí
+139,9,2024-07-22,Falta disciplinaria,Media,Sí
+140,13,2025-09-07,Retraso,Media,Sí
+141,42,2025-09-06,Falta disciplinaria,Alta,Sí
+142,117,2024-11-11,Falta disciplinaria,Baja,Sí
+143,197,2026-01-16,Falta disciplinaria,Media,No
+144,98,2024-06-30,Retraso,Media,Sí
+145,75,2025-08-24,Problema técnico,Baja,Sí
+146,178,2025-11-17,Falta disciplinaria,Media,No
+147,135,2025-08-12,Ausencia,Alta,Sí
+148,157,2025-03-19,Retraso,Baja,Sí
+149,124,2025-12-26,Falta disciplinaria,Media,No
+150,67,2025-04-02,Falta disciplinaria,Baja,No
+151,134,2024-06-29,Problema técnico,Media,Sí
+152,157,2026-05-10,Ausencia,Alta,No
+153,50,2024-07-02,Retraso,Baja,Sí
+154,120,2026-01-31,Retraso,Alta,Sí
+155,158,2026-01-12,Problema técnico,Media,Sí
+156,86,2026-05-12,Falta disciplinaria,Alta,Sí
+157,3,2024-10-15,Ausencia,Alta,No
+158,66,2026-04-16,Retraso,Media,No
+159,130,2025-04-29,Falta disciplinaria,Baja,Sí
+160,176,2026-02-26,Falta disciplinaria,Media,No
+161,186,2026-05-19,Retraso,Baja,Sí
+162,85,2025-11-13,Falta disciplinaria,Alta,No
+163,122,2024-08-05,Retraso,Alta,Sí
+164,124,2026-01-29,Ausencia,Alta,No
+165,138,2025-12-23,Falta disciplinaria,Media,No
+166,191,2026-04-16,Retraso,Alta,No
+167,145,2025-03-12,Falta disciplinaria,Alta,Sí
+168,54,2026-02-22,Falta disciplinaria,Media,Sí
+169,39,2026-02-08,Falta disciplinaria,Baja,No
+170,97,2025-05-28,Ausencia,Alta,No
+171,48,2025-04-08,Retraso,Media,No
+172,182,2026-01-31,Retraso,Media,No
+173,23,2025-04-18,Problema técnico,Baja,No
+174,116,2025-03-17,Falta disciplinaria,Baja,No
+175,45,2025-04-18,Retraso,Media,Sí
+176,200,2025-01-15,Ausencia,Baja,No
+177,130,2024-08-05,Retraso,Media,Sí
+178,49,2026-04-11,Falta disciplinaria,Media,No
+179,199,2024-10-25,Falta disciplinaria,Baja,Sí
+180,133,2025-09-19,Ausencia,Baja,Sí
+181,118,2025-05-28,Problema técnico,Alta,Sí
+182,2,2025-02-28,Falta disciplinaria,Baja,Sí
+183,86,2024-09-21,Problema técnico,Baja,Sí
+184,134,2026-02-01,Falta disciplinaria,Baja,No
+185,164,2024-09-17,Ausencia,Media,Sí
+186,50,2025-12-08,Falta disciplinaria,Media,No
+187,198,2024-08-24,Problema técnico,Alta,Sí
+188,70,2025-04-16,Ausencia,Baja,No
+189,30,2026-05-03,Retraso,Alta,Sí
+190,53,2025-11-10,Falta disciplinaria,Alta,No
+191,70,2024-10-26,Ausencia,Alta,No
+192,147,2024-11-17,Ausencia,Baja,Sí
+193,80,2024-08-22,Falta disciplinaria,Alta,No
+194,13,2026-01-29,Ausencia,Baja,No
+195,173,2025-01-10,Retraso,Baja,No
+196,14,2026-04-10,Retraso,Media,No
+197,46,2025-09-13,Problema técnico,Alta,No
+198,80,2025-06-01,Falta disciplinaria,Baja,Sí
+199,194,2026-01-30,Problema técnico,Alta,Sí
+200,24,2025-04-10,Problema técnico,Baja,No
+201,80,2026-04-24,Problema técnico,Media,Sí
+202,58,2026-05-21,Ausencia,Alta,No
+203,94,2025-07-14,Problema técnico,Baja,No
+204,84,2024-08-07,Problema técnico,Media,Sí
+205,17,2024-06-15,Problema técnico,Baja,No
+206,123,2025-01-31,Problema técnico,Baja,No
+207,197,2025-03-26,Falta disciplinaria,Alta,Sí
+208,131,2025-02-12,Retraso,Media,Sí
+209,84,2025-08-20,Retraso,Media,No
+210,103,2024-05-30,Problema técnico,Baja,Sí
+211,141,2024-09-26,Ausencia,Media,No
+212,17,2024-06-24,Falta disciplinaria,Baja,No
+213,112,2025-05-22,Falta disciplinaria,Alta,Sí
+214,45,2024-06-07,Retraso,Alta,No
+215,30,2025-03-08,Problema técnico,Media,Sí
+216,114,2024-08-28,Ausencia,Media,No
+217,18,2025-07-31,Retraso,Alta,No
+218,84,2025-05-23,Problema técnico,Alta,Sí
+219,24,2026-04-04,Ausencia,Baja,Sí
+220,194,2025-04-12,Ausencia,Alta,Sí
+221,116,2024-10-25,Falta disciplinaria,Media,No
+222,51,2026-05-09,Ausencia,Alta,No
+223,77,2026-05-18,Falta disciplinaria,Media,No
+224,23,2026-01-17,Retraso,Alta,No
+225,33,2026-02-19,Falta disciplinaria,Baja,No
+226,141,2026-04-29,Retraso,Baja,No
+227,29,2024-08-29,Falta disciplinaria,Baja,Sí
+228,111,2024-08-07,Problema técnico,Alta,No
+229,183,2025-01-01,Problema técnico,Media,No
+230,112,2024-09-19,Ausencia,Alta,Sí
+231,122,2024-08-26,Ausencia,Baja,No
+232,93,2026-04-04,Problema técnico,Baja,No
+233,172,2026-05-12,Ausencia,Baja,Sí
+234,19,2025-10-04,Retraso,Baja,No
+235,169,2025-10-15,Problema técnico,Baja,Sí
+236,36,2025-09-16,Problema técnico,Media,No
+237,160,2024-12-12,Ausencia,Media,No
+238,142,2025-04-29,Problema técnico,Media,No
+239,58,2026-03-21,Ausencia,Media,Sí
+240,148,2025-12-28,Problema técnico,Alta,Sí
+241,183,2025-10-27,Falta disciplinaria,Media,No
+242,9,2026-01-14,Retraso,Alta,No
+243,181,2024-08-18,Falta disciplinaria,Baja,No
+244,177,2025-01-24,Retraso,Baja,No
+245,120,2024-09-21,Retraso,Alta,Sí
+246,63,2025-07-14,Problema técnico,Alta,Sí
+247,176,2025-01-24,Falta disciplinaria,Alta,Sí
+248,88,2024-07-13,Retraso,Media,No
+249,132,2025-02-22,Problema técnico,Alta,No
+250,108,2024-09-04,Falta disciplinaria,Media,No
+251,43,2025-04-22,Retraso,Alta,No
+252,187,2025-03-03,Falta disciplinaria,Baja,No
+253,149,2026-05-03,Ausencia,Alta,Sí
+254,169,2025-06-18,Falta disciplinaria,Alta,Sí
+255,74,2025-05-29,Problema técnico,Baja,Sí
+256,130,2025-01-08,Retraso,Media,No
+257,34,2026-04-02,Falta disciplinaria,Media,No
+258,4,2025-02-18,Retraso,Alta,Sí
+259,152,2026-05-18,Ausencia,Alta,No
+260,95,2025-04-17,Ausencia,Media,Sí
+261,125,2025-01-02,Ausencia,Alta,Sí
+262,88,2025-03-19,Retraso,Baja,Sí
+263,127,2025-12-17,Problema técnico,Media,Sí
+264,170,2024-08-16,Problema técnico,Alta,Sí
+265,54,2026-01-03,Falta disciplinaria,Baja,No
+266,194,2025-08-23,Retraso,Baja,Sí
+267,119,2026-02-20,Problema técnico,Media,No
+268,122,2025-04-30,Ausencia,Media,No
+269,122,2024-06-01,Falta disciplinaria,Baja,No
+270,4,2025-07-11,Falta disciplinaria,Media,No
+271,174,2024-11-10,Falta disciplinaria,Alta,Sí
+272,25,2025-06-10,Falta disciplinaria,Media,No
+273,86,2024-07-11,Falta disciplinaria,Media,Sí
+274,66,2026-05-24,Problema técnico,Media,Sí
+275,188,2025-12-05,Ausencia,Alta,No
+276,174,2025-08-12,Ausencia,Media,Sí
+277,173,2025-03-14,Retraso,Baja,Sí
+278,106,2025-07-09,Retraso,Alta,Sí
+279,176,2026-02-15,Problema técnico,Media,Sí
+280,186,2024-12-25,Falta disciplinaria,Media,Sí
+281,9,2025-08-24,Retraso,Alta,Sí
+282,15,2025-10-14,Ausencia,Alta,Sí
+283,182,2026-05-14,Retraso,Baja,Sí
+284,97,2025-11-30,Ausencia,Baja,Sí
+285,65,2024-10-26,Falta disciplinaria,Media,Sí
+286,164,2025-05-25,Problema técnico,Media,No
+287,178,2024-09-30,Falta disciplinaria,Media,Sí
+288,200,2024-11-26,Retraso,Media,Sí
+289,98,2024-08-04,Problema técnico,Media,Sí
+290,67,2025-07-20,Falta disciplinaria,Baja,No
+291,18,2025-11-08,Problema técnico,Baja,No
+292,46,2026-02-10,Problema técnico,Baja,Sí
+293,139,2025-04-25,Problema técnico,Baja,Sí
+294,114,2025-12-26,Falta disciplinaria,Baja,Sí
+295,19,2026-01-28,Retraso,Alta,No
+296,199,2024-06-28,Problema técnico,Baja,No
+297,39,2025-11-22,Retraso,Baja,No
+298,69,2026-04-24,Ausencia,Alta,No
+299,101,2025-03-15,Retraso,Alta,No
+300,123,2026-01-25,Problema técnico,Media,Sí

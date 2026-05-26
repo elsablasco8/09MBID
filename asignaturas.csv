@@ -1,0 +1,26 @@
+id_asignatura,nombre_asignatura,familia_profesional,horas_totales,id_profesor
+1,Bases de Datos,Administración,120,20
+2,Programación,ASIR,160,7
+3,Sistemas Informáticos,DAM,80,8
+4,Entornos de Desarrollo,ASIR,80,8
+5,Lenguaje de Marcas,DAM,120,9
+6,Desarrollo Web,Marketing,160,12
+7,Seguridad Informática,DAW,120,12
+8,FOL,DAW,160,9
+9,Empresa e Iniciativa,DAM,160,6
+10,Marketing Digital,Administración,160,8
+11,Redes,DAW,120,13
+12,Ofimática,ASIR,160,18
+13,Big Data,DAW,160,11
+14,Machine Learning,DAM,80,2
+15,Cloud Computing,ASIR,120,9
+16,Analítica Web,DAM,80,19
+17,Gestión Empresarial,ASIR,80,16
+18,Aplicaciones Móviles,Marketing,160,15
+19,IA Aplicada,DAW,120,5
+20,Ciberseguridad,DAW,160,18
+21,Comercio Electrónico,Administración,120,19
+22,Diseño UX,Marketing,160,13
+23,SEO y SEM,ASIR,80,5
+24,Virtualización,Administración,120,3
+25,Administración de Sistemas,DAM,80,5

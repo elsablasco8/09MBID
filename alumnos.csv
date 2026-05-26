@@ -1,0 +1,201 @@
+id_alumno,nombre,apellido,genero,fecha_nacimiento,ciudad,fecha_ingreso,ciclo_formativo,modalidad
+1,Felisa,Alcalde,M,2000-08-05,Ceuta,2026-05-12,Marketing,Dual
+2,Germán,Juárez,M,1996-10-02,La Coruña,2025-10-18,Marketing,Online
+3,Balduino,Nogués,F,2000-05-28,Pontevedra,2023-10-30,Administración,Online
+4,Manu,Criado,M,1998-06-25,Granada,2025-07-29,DAM,Dual
+5,Jose Luis,Tirado,F,2001-12-07,Lleida,2024-07-19,ASIR,Presencial
+6,Edgardo,Crespi,F,1999-03-23,Navarra,2024-09-18,Marketing,Presencial
+7,Mireia,Amat,F,2007-05-21,Ceuta,2025-07-31,DAM,Dual
+8,Juana,Rosales,F,2000-09-11,Almería,2025-04-13,Administración,Presencial
+9,Lucho,Vazquez,M,2002-09-19,Toledo,2025-11-18,ASIR,Dual
+10,Gala,Cañete,M,2004-01-10,Córdoba,2023-09-27,DAW,Online
+11,Custodia,Prada,M,2006-11-01,Valladolid,2025-09-22,Administración,Dual
+12,Baldomero,Andrade,M,2006-05-11,Albacete,2026-04-14,Administración,Online
+13,Nilda,Alegre,F,1997-12-14,Madrid,2024-04-25,DAM,Presencial
+14,José María,Mate,F,1999-09-25,Castellón,2024-01-19,ASIR,Presencial
+15,Marco,Perez,M,2000-09-14,Valladolid,2025-09-17,DAW,Dual
+16,Rodrigo,Barco,M,2004-11-06,Melilla,2023-06-29,DAM,Dual
+17,Marcos,Gibert,F,2003-02-06,Guipúzcoa,2025-02-21,DAM,Dual
+18,Araceli,Bartolomé,M,1997-08-08,Jaén,2025-12-28,DAW,Dual
+19,Edelmira,Ripoll,F,2003-07-14,Álava,2024-11-10,Administración,Presencial
+20,Jose Ramón,Barrera,F,2005-06-14,Baleares,2025-06-13,Administración,Dual
+21,Miriam,Murillo,F,2006-11-04,Santa Cruz de Tenerife,2026-01-23,DAW,Dual
+22,Néstor,Badía,M,2008-02-11,Albacete,2024-11-29,ASIR,Online
+23,Gertrudis,Arce,F,2007-10-17,Melilla,2023-12-16,Marketing,Dual
+24,Teófila,Luján,F,2006-12-28,Barcelona,2025-03-10,DAM,Presencial
+25,Luisa,Lledó,M,1997-07-26,Almería,2023-11-03,DAM,Online
+26,Ibán,Leiva,M,1997-05-18,León,2025-11-14,Administración,Dual
+27,Roberto,Bayón,M,2007-07-23,Asturias,2023-12-11,Administración,Presencial
+28,Armando,Gisbert,M,2003-02-27,León,2024-07-09,DAM,Dual
+29,Haroldo,Osorio,M,2007-08-11,Albacete,2025-10-29,DAW,Presencial
+30,Lorenza,Rozas,M,2007-07-14,Santa Cruz de Tenerife,2023-12-14,ASIR,Presencial
+31,Juan Bautista,Diéguez,M,2000-06-17,Córdoba,2024-11-30,ASIR,Dual
+32,Artemio,Royo,F,2001-03-27,Girona,2024-08-09,DAW,Dual
+33,Ariel,Hervás,M,2007-09-04,Ciudad,2024-11-01,Administración,Dual
+34,Rita,Ayala,F,1998-12-21,Burgos,2024-02-28,DAW,Online
+35,Ascensión,Villaverde,F,1999-05-29,Toledo,2025-03-28,DAW,Presencial
+36,Elena,Céspedes,M,2000-10-05,Burgos,2025-11-23,Marketing,Online
+37,Rafaela,Anglada,F,2004-11-08,La Coruña,2023-07-08,Marketing,Online
+38,Emelina,Lerma,M,2000-08-10,Vizcaya,2025-09-06,DAM,Presencial
+39,Abilio,Puig,F,2005-02-16,Granada,2026-02-06,ASIR,Presencial
+40,Hernán,Garzón,M,2003-01-04,Ávila,2023-08-27,DAW,Presencial
+41,Nacio,Pomares,F,2001-02-17,Ourense,2026-03-04,DAW,Online
+42,Eladio,Pavón,M,1998-04-24,Cantabria,2026-03-01,ASIR,Online
+43,Palmira,Perales,M,1998-05-21,Almería,2025-07-03,DAM,Online
+44,Teobaldo,Rivera,M,1999-12-03,Lugo,2023-07-22,DAM,Dual
+45,Ramona,Sureda,M,2005-03-11,Navarra,2025-09-21,DAM,Presencial
+46,Elvira,Manzano,M,2001-09-09,Melilla,2025-11-25,Marketing,Online
+47,Ambrosio,Hervás,F,1998-06-28,Córdoba,2024-02-08,DAW,Online
+48,Yaiza,Becerra,M,2002-10-30,Valladolid,2025-04-13,DAW,Online
+49,José Manuel,Parra,M,2005-11-16,Cantabria,2025-05-16,Marketing,Online
+50,Josefina,Hernández,F,2008-04-14,Barcelona,2024-02-03,ASIR,Online
+51,Cruz,Huguet,F,2005-02-18,Tarragona,2024-02-24,DAW,Presencial
+52,América,Paz,F,2000-11-02,Pontevedra,2025-06-14,DAW,Presencial
+53,Ovidio,Pujol,M,2001-07-27,Huelva,2023-12-06,ASIR,Presencial
+54,Jose Angel,Manso,M,2007-04-15,Badajoz,2026-04-27,Administración,Online
+55,Ámbar,Villalobos,M,2007-11-06,Almería,2023-11-14,DAM,Dual
+56,Toribio,Heras,M,2001-04-12,Almería,2026-05-22,DAW,Presencial
+57,Amaro,Castrillo,M,2005-04-29,Girona,2023-10-26,DAW,Online
+58,Epifanio,Carrera,M,2004-07-02,Baleares,2026-01-22,Administración,Presencial
+59,Lourdes,Acero,M,1998-11-22,Málaga,2023-07-08,Administración,Presencial
+60,Carlota,Godoy,F,2007-05-15,Baleares,2023-11-13,Administración,Dual
+61,Soraya,Ferreras,F,2001-06-29,Salamanca,2023-12-17,ASIR,Presencial
+62,Lisandro,Alcántara,F,1996-07-18,Vizcaya,2026-03-02,DAW,Online
+63,Claudio,Vigil,F,2007-02-25,Sevilla,2025-06-14,DAW,Dual
+64,Angélica,Peñas,F,1998-07-28,Vizcaya,2025-07-28,Marketing,Online
+65,Celia,Pallarès,M,1999-08-25,Santa Cruz de Tenerife,2024-08-29,DAM,Online
+66,Rosalía,Donoso,M,2004-10-30,Alicante,2024-06-02,DAM,Dual
+67,Alejandro,Serrano,M,2006-10-30,Albacete,2024-01-21,Administración,Online
+68,Macarena,Ruiz,M,1998-01-05,Valencia,2024-07-24,ASIR,Presencial
+69,Calista,Cepeda,M,2007-03-16,Castellón,2026-02-28,ASIR,Online
+70,Dionisio,Torrents,M,2006-04-15,Zaragoza,2024-08-03,Marketing,Dual
+71,Paca,Feijoo,F,2006-01-31,Soria,2026-01-15,Administración,Dual
+72,Ciríaco,Ballester,M,1999-11-29,Jaén,2024-12-10,Administración,Online
+73,Mohamed,Torrent,M,1996-11-09,Salamanca,2023-07-18,DAW,Online
+74,Susanita,Galán,M,2000-07-27,Burgos,2025-07-16,DAM,Dual
+75,Fortunata,Cueto,M,2003-05-13,Huelva,2025-03-06,ASIR,Online
+76,Lina,Polo,M,1996-10-04,La Rioja,2023-11-23,ASIR,Presencial
+77,Clemente,Bellido,F,2008-05-14,Alicante,2026-02-14,Administración,Online
+78,Felix,Ochoa,F,2000-07-23,Álava,2025-10-26,DAM,Presencial
+79,Julieta,Luque,F,2001-08-04,Las Palmas,2024-05-30,ASIR,Presencial
+80,Etelvina,Aguilar,M,1997-11-11,Ourense,2024-09-10,ASIR,Presencial
+81,Cirino,Baños,F,2006-01-09,Huelva,2023-07-10,DAW,Dual
+82,Macaria,Mendizábal,F,2001-03-30,Álava,2023-09-14,Administración,Dual
+83,Manola,Alcalá,F,2003-06-08,Castellón,2026-03-13,Administración,Presencial
+84,Manuelita,Diego,M,2000-11-12,Santa Cruz de Tenerife,2024-05-20,DAM,Dual
+85,África,Bas,M,1999-01-21,Burgos,2023-08-17,Administración,Presencial
+86,Marcelino,Llanos,F,2004-07-05,Soria,2025-11-30,Administración,Dual
+87,Loreto,Serna,M,2005-03-22,Albacete,2024-06-22,Marketing,Presencial
+88,Juan Carlos,Hernández,M,1999-07-08,Pontevedra,2024-12-28,ASIR,Online
+89,Loreto,Esteve,M,2008-04-08,Álava,2024-04-05,ASIR,Presencial
+90,Epifanio,Guardia,M,2004-11-18,Cantabria,2025-04-15,DAM,Online
+91,Vicente,Botella,F,2000-07-18,Ciudad,2025-03-08,Administración,Dual
+92,Martín,Tovar,M,2005-06-05,La Coruña,2023-12-26,DAW,Presencial
+93,Nazaret,Riera,M,2008-02-14,Cádiz,2026-01-03,Marketing,Presencial
+94,Agapito,Pareja,M,2004-02-07,Murcia,2024-09-11,ASIR,Online
+95,Abraham,Sarmiento,M,2003-03-10,Lugo,2023-06-14,ASIR,Presencial
+96,Teófila,Serrano,M,2001-02-03,Las Palmas,2023-11-12,Marketing,Presencial
+97,Adelardo,Sanz,F,1997-05-21,Granada,2025-08-12,DAW,Presencial
+98,Borja,Saura,F,2004-11-30,Valladolid,2025-02-14,ASIR,Online
+99,Violeta,Huertas,M,2001-06-16,Albacete,2024-11-13,DAW,Presencial
+100,Dalila,Cid,M,2008-02-04,Segovia,2023-06-01,Marketing,Online
+101,Carina,Menéndez,F,2003-02-21,Sevilla,2024-10-13,DAM,Online
+102,Berta,Carbonell,F,2002-06-18,Palencia,2025-08-20,Administración,Online
+103,Paula,Gabaldón,F,1999-06-26,Baleares,2025-07-01,DAM,Presencial
+104,Nieves,Pagès,F,1999-11-02,Girona,2025-03-06,DAW,Dual
+105,Maximino,Donaire,F,2006-02-02,Albacete,2023-12-14,DAM,Presencial
+106,Eduardo,Montesinos,F,2002-03-19,Jaén,2024-12-02,ASIR,Dual
+107,Juan Antonio,González,F,2006-01-27,Ciudad,2024-09-13,Marketing,Dual
+108,Adriana,Reguera,M,2004-05-17,Zamora,2025-12-18,Marketing,Dual
+109,Ángela,Adán,M,2005-08-30,Murcia,2023-10-28,ASIR,Presencial
+110,Ramiro,Cuéllar,F,1999-11-02,Álava,2025-07-26,DAM,Dual
+111,Vito,Ibáñez,M,2000-09-11,Málaga,2025-05-20,ASIR,Online
+112,Juan Bautista,Cueto,M,2002-06-11,Barcelona,2023-06-05,ASIR,Dual
+113,Begoña,Cisneros,F,1997-03-27,Melilla,2024-09-20,DAM,Dual
+114,Alfredo,Herranz,F,2006-06-14,Teruel,2025-03-19,Administración,Online
+115,Mateo,Velázquez,F,2006-11-11,Guipúzcoa,2023-06-18,ASIR,Online
+116,Samanta,Blanco,F,2004-07-28,Cádiz,2023-12-24,Administración,Presencial
+117,Heriberto,Baquero,M,1999-06-25,Málaga,2025-03-06,Marketing,Dual
+118,María Belén,Peinado,F,2004-03-18,Cantabria,2024-09-06,DAW,Dual
+119,Gil,Lluch,F,2005-03-02,Vizcaya,2024-11-16,Marketing,Dual
+120,Teodora,Pizarro,M,2000-01-24,Vizcaya,2025-03-18,ASIR,Online
+121,Candela,Leon,M,1999-02-11,Granada,2025-11-04,Marketing,Dual
+122,Régulo,Ferrando,F,2003-04-30,Lugo,2023-06-21,Marketing,Online
+123,Silvestre,Cruz,F,2004-08-15,Teruel,2026-04-22,DAW,Dual
+124,Vinicio,Bastida,F,1997-08-14,Cáceres,2025-02-21,DAW,Dual
+125,Jovita,Villanueva,M,1997-10-07,Zamora,2024-02-12,ASIR,Dual
+126,Dani,Bellido,F,2000-01-19,Madrid,2025-09-15,DAM,Presencial
+127,Azucena,Nebot,F,1996-12-08,La Rioja,2025-06-21,DAW,Presencial
+128,Carmela,Fonseca,M,2005-08-14,La Coruña,2024-12-07,DAM,Presencial
+129,Augusto,Cabrero,M,2007-06-09,Jaén,2023-10-23,Marketing,Dual
+130,Fortunata,Borja,M,1999-05-25,Huesca,2024-08-08,Marketing,Online
+131,Adora,Trillo,M,2007-07-25,Baleares,2023-08-24,Marketing,Online
+132,Pastor,Mesa,F,2004-12-21,Lugo,2025-12-15,DAW,Presencial
+133,Marita,Rosselló,M,2001-08-16,Toledo,2024-10-20,DAM,Online
+134,Saturnina,Salinas,M,2000-12-31,Pontevedra,2026-04-30,DAW,Dual
+135,Ale,Guillén,F,1997-05-17,Pontevedra,2023-07-14,DAM,Dual
+136,Maristela,Miranda,M,1999-12-11,Salamanca,2025-09-03,DAM,Online
+137,Nazario,Sebastián,M,1998-05-21,Vizcaya,2024-01-09,Marketing,Dual
+138,Raimundo,Reig,F,1998-08-31,Cuenca,2024-08-19,Marketing,Dual
+139,Javier,Santamaria,F,2005-06-22,Guipúzcoa,2025-08-31,Administración,Online
+140,Apolinar,Alegria,M,2001-09-23,Asturias,2025-12-07,Marketing,Online
+141,Román,Roman,F,1999-09-08,Sevilla,2023-05-26,DAW,Dual
+142,Edelmira,Juárez,F,2004-02-19,Girona,2024-06-13,Administración,Online
+143,Abraham,Figueroa,M,2000-06-27,Madrid,2025-06-27,ASIR,Online
+144,Melisa,Soria,M,1999-12-29,León,2024-09-05,ASIR,Presencial
+145,Hernando,Díaz,F,2006-05-30,Asturias,2023-09-15,ASIR,Online
+146,Ruy,Garriga,M,2008-02-11,Granada,2024-03-17,DAW,Presencial
+147,Roldán,Franch,M,2007-11-06,Teruel,2023-10-19,Marketing,Dual
+148,Marcia,Clavero,M,1999-02-28,Cuenca,2026-01-01,DAW,Presencial
+149,Fermín,Bermúdez,F,2004-02-05,Pontevedra,2024-11-06,Marketing,Online
+150,Ámbar,Jordán,F,2007-03-02,Salamanca,2024-01-27,Marketing,Presencial
+151,Sol,Perera,M,2002-06-02,Jaén,2024-11-26,Marketing,Online
+152,Alejo,Muro,M,2005-08-28,Navarra,2026-03-16,Administración,Online
+153,Anabel,Uriarte,F,2004-09-05,Jaén,2024-06-30,DAM,Online
+154,Javiera,Manrique,F,2003-08-24,Alicante,2024-02-04,Marketing,Online
+155,Elvira,Pizarro,M,2002-09-16,Guipúzcoa,2025-07-06,Marketing,Presencial
+156,Gerardo,Canet,F,2005-05-29,Segovia,2024-05-30,Marketing,Online
+157,Obdulia,Estévez,M,2002-07-01,Castellón,2025-04-27,Marketing,Online
+158,Rosalina,Cid,F,2005-10-06,Ceuta,2025-08-18,DAW,Online
+159,Berta,Tudela,M,1997-08-12,Santa Cruz de Tenerife,2024-10-30,Administración,Dual
+160,Hector,Aragonés,M,2002-12-24,Badajoz,2026-05-09,Marketing,Dual
+161,Edmundo,Palacios,M,2002-02-26,Castellón,2026-04-06,DAM,Dual
+162,Marcia,Aroca,F,1998-06-30,Castellón,2024-02-05,DAW,Online
+163,Baudelio,Amores,M,2008-05-08,Asturias,2026-05-08,DAM,Online
+164,Miguel Ángel,Llorens,F,2003-09-03,Ourense,2023-07-01,ASIR,Presencial
+165,Sol,Quintana,F,2006-10-05,Murcia,2025-01-08,ASIR,Online
+166,Purificación,Quintana,F,2005-12-22,Barcelona,2026-02-03,ASIR,Online
+167,Francisco,Alberto,F,2006-11-02,Navarra,2023-11-25,DAM,Online
+168,Chus,Escribano,M,2002-03-12,Ourense,2025-07-07,Administración,Presencial
+169,Anunciación,Belda,F,2006-07-16,Zaragoza,2025-05-21,DAW,Dual
+170,Dalila,Tejada,M,2003-12-27,Melilla,2025-05-19,DAM,Presencial
+171,Francisco Javier,Vazquez,M,2000-12-05,Salamanca,2023-05-25,DAW,Presencial
+172,Casemiro,Verdugo,M,1996-12-08,Málaga,2023-10-25,DAW,Presencial
+173,Alcides,Fiol,F,2006-07-19,Huesca,2024-11-15,DAM,Dual
+174,Jafet,Gual,M,2001-09-18,Tarragona,2023-09-22,Marketing,Dual
+175,Lázaro,Villena,F,2002-01-21,Girona,2024-02-05,ASIR,Presencial
+176,Cloe,Abellán,M,2007-07-02,Álava,2023-06-02,DAW,Online
+177,Nicodemo,Carnero,M,1999-07-06,Cuenca,2026-03-25,Administración,Presencial
+178,Edmundo,Aguilera,F,1997-01-01,Cuenca,2024-07-21,Administración,Dual
+179,Emma,Ramírez,F,2000-04-26,Castellón,2023-12-09,Marketing,Dual
+180,Judith,Ureña,M,1996-11-26,Ourense,2024-07-29,DAM,Dual
+181,Vasco,Pol,M,1998-03-09,Guipúzcoa,2024-08-31,DAM,Dual
+182,Ema,Vazquez,F,2002-02-16,Málaga,2023-11-13,Administración,Presencial
+183,Ulises,Bernad,M,2005-11-10,Tarragona,2023-07-20,ASIR,Dual
+184,Juan Antonio,Ángel,F,2007-09-20,Zaragoza,2024-07-29,ASIR,Presencial
+185,Vito,Barrios,F,2001-02-18,Cádiz,2023-10-06,DAM,Online
+186,María Pilar,Mercader,F,2006-08-13,Toledo,2025-12-08,DAM,Online
+187,Bernardo,Sabater,F,1997-01-08,Madrid,2026-03-28,Marketing,Dual
+188,Gilberto,Alemany,M,1998-09-05,Granada,2024-06-17,Marketing,Presencial
+189,Ovidio,Sacristán,F,2006-01-24,Guipúzcoa,2025-03-02,Administración,Dual
+190,Azucena,Grande,F,2003-11-08,Madrid,2024-02-19,Marketing,Online
+191,Consuela,Coca,F,2001-11-15,Ávila,2023-07-15,ASIR,Presencial
+192,Fortunato,Criado,M,1996-07-29,Navarra,2025-08-18,ASIR,Online
+193,Gracia,Huertas,M,2005-10-19,Valencia,2024-12-25,Marketing,Dual
+194,Eva,Fábregas,F,2002-12-19,Murcia,2023-05-31,ASIR,Presencial
+195,Remigio,Blázquez,F,2005-07-30,Girona,2023-11-28,ASIR,Presencial
+196,Elpidio,Casares,F,1999-12-16,León,2025-03-28,DAW,Online
+197,Brunilda,Polo,F,2004-12-02,Madrid,2023-09-01,ASIR,Online
+198,Manu,Téllez,F,2004-10-29,Segovia,2023-07-10,Administración,Presencial
+199,Áurea,Pavón,M,1997-04-14,Guadalajara,2023-06-26,DAM,Presencial
+200,Marc,Cerdá,F,2002-11-06,Zaragoza,2024-12-29,Marketing,Dual
